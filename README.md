@@ -48,5 +48,5 @@ This repository contains a set of automated tests for the main functionalities o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com//saucedemo_tests.git
-   cd saucedemo_tests
+   git clone https://github.com/PeterFabianGit/Moxymind_pythonProject.git
+   
