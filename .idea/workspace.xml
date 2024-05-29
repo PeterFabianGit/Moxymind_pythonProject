@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2349fc7-da37-4df7-8bee-29e25c26cf0f" name="Changes" comment="Moxymind_project">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    <list default="true" id="d2349fc7-da37-4df7-8bee-29e25c26cf0f" name="Changes" comment="Moxymind_project test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_to_chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_add_to_cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_checkout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login_invalid.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_login_incorrect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login_valid.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_login_correct.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +26,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PeterFabianGit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PeterFabianGit/Moxymind_pythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;511e39c1-f053-45dd-9a5d-5ecb521712db&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2h2wjBHPzMgFc0jpFnwub1QnwJd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,6 +52,8 @@
   "keyToString": {
     "Python tests.Python tests in add_to_chart.py.executor": "Run",
     "Python tests.Python tests in checkout.py.executor": "Run",
+    "Python tests.Python tests in gymbeam_incorrect_login.py.executor": "Run",
+    "Python tests.Python tests in gymbeam_login.py.executor": "Run",
     "Python tests.Python tests in login_invalid.py.executor": "Run",
     "Python tests.Python tests in login_valid.py.executor": "Run",
     "Python.login_valid.executor": "Run",
@@ -69,7 +85,31 @@
       <option name="project" value="LOCAL" />
       <updated>1716808926081</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Moxymind_project test">
+      <option name="closed" value="true" />
+      <created>1716809330920</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716809330920</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Moxymind_project test">
+      <option name="closed" value="true" />
+      <created>1716809375893</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716809375893</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Moxymind_project test">
+      <option name="closed" value="true" />
+      <created>1716810301613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716810301613</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Moxymind_project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moxymind_project" />
+    <MESSAGE value="Moxymind_project test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moxymind_project test" />
   </component>
 </project>
